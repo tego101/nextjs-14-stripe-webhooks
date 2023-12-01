@@ -1,4 +1,5 @@
 <h1 class="lg:text-4xl font-bold">Integrating and Handling Stripe Webhooks in Next.js</h1>
+#nextjs, #stripe, #stripe-checkout, #subscription, #api, #template, #webhook
 <div class="w-128 h-128 my-4 bg-gradient-to-bl from-blue-400 to-blue-800 shadow-2xl rounded-xl"> 
 	<img src="/peek.png">
 </div>
