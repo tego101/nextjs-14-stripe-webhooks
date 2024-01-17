@@ -1,7 +1,7 @@
 <h1 class="lg:text-4xl font-bold">Integrating and Handling Stripe Webhooks in Next.js</h1>
 #nextjs, #stripe, #stripe-checkout, #subscription, #api, #template, #webhook
 <div class="w-128 h-128 my-4 bg-gradient-to-bl from-blue-400 to-blue-800 shadow-2xl rounded-xl"> 
-![stripe logo](StickPNG Image.png)
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" class="h-24 w-24 mr-4">
 </div>
 <p class="text-slate-700">
 Integrating Stripe webhooks into a Next.js application can be a game-changer, especially for e-commerce platforms. At the same time it can be a nightmare. In this blog post, I'll share a comprehensive guide on setting up a route to handle Stripe Webhooks in Next.js.
