@@ -327,7 +327,7 @@ async function POST(request: Request) {
 
 		// Verify the webhook signature
 		try {
-			const stripeWebhookSecret = process.env.STRIPE_SECRET_KEY;
+			const stripeWebhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
 			if (!stripeWebhookSecret) {
 				throw new Error("STRIPE_WEBHOOK_SECRET not set");
 			}
