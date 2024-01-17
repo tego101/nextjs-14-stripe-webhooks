@@ -93,5 +93,5 @@ Remember, always test your implementation in a secure environment and handle sen
  
 ---
 <br><br>
-**-Tego**<br>
+**-Tego** ♟️<br>
 *I hope this helps someone.*
