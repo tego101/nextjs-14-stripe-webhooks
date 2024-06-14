@@ -11,7 +11,7 @@
 
 #nextjs, #stripe, #stripe-checkout, #subscription, #api, #template, #webhook
 
-![stripe_logo](https://camo.githubusercontent.com/1e61b8e2403fb738f3ebac57c2e6003f164ee15a5b66a39c229ce51ddbbeb186/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30332f5374726970652d53796d626f6c2e706e67)
+![stripe_logo](banner.png)
 
 ## Integrating Stripe webhooks into a Next.js application can be a game-changer, especially for e-commerce platforms. At the same time it can be a nightmare. In this blog post, I'll share a comprehensive guide on setting up a route to handle Stripe Webhooks in Next.js.
 
