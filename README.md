@@ -3,7 +3,7 @@
 **by** [Tego](https://x.com/tegodotdev)
 
 ### Links
-**Twitter/X** → [@tegocodes](https://x.com/tegodotdev)
+**Twitter/X** → [@tegodotdev](https://x.com/tegodotdev)
 
 **Portfolio** → [tego.dev](https://tego.dev)
 
