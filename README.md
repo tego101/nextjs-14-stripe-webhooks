@@ -1,4 +1,4 @@
-# NextJS 14: Stripe Webhook.
+# NextJS 14: Stripe Webhooks.
 ##### _Integrating and Handling Stripe Webhooks in Next.js_
 **by** [Tego](https://x.com/tegodotdev)
 
